@@ -1,19 +1,25 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-# Rider ignored files
-/modules.xml
-/contentModel.xml
-/projectSettingsUpdater.xml
-/.idea.raghdaa-gad-OOP-Assignment-1.iml
-# Ignored default folder with query files
-/queries/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
-bin/
-obj/
-.idea/
+## Build results / Output directories
+[Bb]in/
+[Ob]j/
+out/
+[Ll]og/
+[Ll]ogs/
+
+## User-specific files and IDE configurations
 *.user
+*.userosscache
+*.sln.docstates
+
+## Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+
+## JetBrains Rider
+.idea/
+*.sln.iml
+
+## OS generated files
+.DS_Store
+Thumbs.db
