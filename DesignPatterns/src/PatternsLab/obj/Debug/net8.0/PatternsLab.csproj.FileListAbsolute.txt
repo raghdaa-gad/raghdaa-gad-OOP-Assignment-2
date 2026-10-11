@@ -1,0 +1,12 @@
+C:\Users\moham\csharp-creational-patterns-lab\src\PatternsLab\bin\Debug\net8.0\PatternsLab.deps.json
+C:\Users\moham\csharp-creational-patterns-lab\src\PatternsLab\bin\Debug\net8.0\PatternsLab.dll
+C:\Users\moham\csharp-creational-patterns-lab\src\PatternsLab\bin\Debug\net8.0\PatternsLab.pdb
+C:\Users\moham\csharp-creational-patterns-lab\src\PatternsLab\obj\Debug\net8.0\PatternsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\csharp-creational-patterns-lab\src\PatternsLab\obj\Debug\net8.0\PatternsLab.AssemblyInfoInputs.cache
+C:\Users\moham\csharp-creational-patterns-lab\src\PatternsLab\obj\Debug\net8.0\PatternsLab.AssemblyInfo.cs
+C:\Users\moham\csharp-creational-patterns-lab\src\PatternsLab\obj\Debug\net8.0\PatternsLab.csproj.CoreCompileInputs.cache
+C:\Users\moham\csharp-creational-patterns-lab\src\PatternsLab\obj\Debug\net8.0\PatternsLab.sourcelink.json
+C:\Users\moham\csharp-creational-patterns-lab\src\PatternsLab\obj\Debug\net8.0\PatternsLab.dll
+C:\Users\moham\csharp-creational-patterns-lab\src\PatternsLab\obj\Debug\net8.0\refint\PatternsLab.dll
+C:\Users\moham\csharp-creational-patterns-lab\src\PatternsLab\obj\Debug\net8.0\PatternsLab.pdb
+C:\Users\moham\csharp-creational-patterns-lab\src\PatternsLab\obj\Debug\net8.0\ref\PatternsLab.dll
