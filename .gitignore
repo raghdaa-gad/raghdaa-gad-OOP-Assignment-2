@@ -19,6 +19,8 @@ out/
 ## JetBrains Rider
 .idea/
 *.sln.iml
+/xml
+
 
 ## OS generated files
 .DS_Store
