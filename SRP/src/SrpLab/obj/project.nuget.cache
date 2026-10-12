@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "g5oc1Z7Bg0c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moham\\raghdaa-gad-OOP-Assignment-2\\SRP\\src\\SrpLab\\SrpLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.31\\microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.31\\microsoft.windowsdesktop.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.31\\microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
