@@ -4,7 +4,9 @@
 out/
 [Ll]og/
 [Ll]ogs/
-
+[bin/]
+[obj/]
+*.cache
 ## User-specific files and IDE configurations
 *.user
 *.userosscache
